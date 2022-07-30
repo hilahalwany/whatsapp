@@ -3,17 +3,17 @@ body {
 }
 .female {
   border: 3px solid purple;
-  margin: 25px 10px 75px 750px;
+  margin: 25px 10px 75px 450px;
   background-color: lavender;
 }
 .male {
   border: 3px solid green;
-  margin: 25px 10px 75px 750px;
+  margin: 25px 10px 75px 450px;
   background-color: lightgreen;
 }
 .unisex {
   border: 3px solid orange;
-  margin: 25px 10px 75px 750px;
+  margin: 25px 10px 75px 450px;
   background-color: lightyellow;
 }
 
