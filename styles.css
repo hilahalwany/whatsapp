@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://i.ibb.co/qm0sGkh/tw0nawnvo0zpgm5nx4fp.png);
+}
+.female {
+  border: 3px solid purple;
+  margin: 25px 10px 75px 750px;
+  background-color: lavender;
+}
+.male {
+  border: 3px solid green;
+  margin: 25px 10px 75px 750px;
+  background-color: lightgreen;
+}
+.unisex {
+  border: 3px solid orange;
+  margin: 25px 10px 75px 750px;
+  background-color: lightyellow;
+}
+
